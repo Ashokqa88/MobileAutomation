@@ -46,7 +46,6 @@ public class Login {
 	 // cs.login_invalid("","pwd_valid1","emptydata_validation_message","Login_TC_23795_6");
 	 // cs.login_invalid("uid_valid3","pwd_invalid2", "pwd_invalid_message","Login_TC_23795_7");
 	  driver.quit();      
-	//The above statement is to quit the driver
   }
 
   
